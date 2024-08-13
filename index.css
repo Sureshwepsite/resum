@@ -1,0 +1,29 @@
+@media (max-width:600px){
+    .work{
+        margin-top:450px !important;
+    }
+    .expertiers
+        {
+            position: absolute !important;
+            top: 963px !important;
+            width: 93% !important;
+            background-color: rgb(233, 233, 233);
+        }
+        .inter{
+            
+                margin-right:0px !important;
+                
+    }
+    .desinname p{
+        position: absolute;
+        bottom:-25px;
+        z-index:5;
+        right:117px;
+     }
+}
+
+    .desinname p{
+       position: absolute;
+       bottom:-25px;
+       z-index:5;
+    }
